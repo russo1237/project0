@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+.google-name{
+    display: flex;
+    justify-content: center;
+    /* margin: 40%; */
+    margin-top: 10%;
+    color: white;
+    font-size: 75px;
+    font-family: Arial, sans-serif;
+}
+
+.search-type{
+    display: flex;
+    flex-direction: row;
+    margin: 1%;
+    padding: 1%;
+    justify-content: end;
+    margin-right: 1%;
+}
